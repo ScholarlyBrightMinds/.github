@@ -31,9 +31,9 @@ A personal academic website hosted free on GitHub Pages, with auto-updating publ
 
 <br/>
 
-### 🤝 Want Your Own Website?
+### 🤝 Want Your Own?
 
-If you're a researcher and would like to have your academic website live, please reach out! We're always looking to grow this network, improve what we offer, and help more researchers get the online presence they deserve.
+If you're a researcher and would like to have your own academic website, we'd be happy to build it for you, completely free. Just send an email and we'll take care of the rest.
 
 📧 **abdallah.abouhajal@gmail.com**
 
