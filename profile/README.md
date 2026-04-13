@@ -2,7 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/ScholarlyBrightMinds/.github/main/profile/banner.png" width="100%" alt="ScholarlyBrightMinds — Network of Minds"/>
 
-<br/>
+<sub>We're still trying to find the perfect image to describe us. Haven't found it yet :) so this will do for now! · <i>Image generated with Google Gemini</i></sub>
+
+<br/><br/>
 
 ### A hub for early-career researchers to build their academic presence online.
 
@@ -30,7 +32,7 @@ And unlike institutional pages that disappear when you move on, your website sta
 
 ### 🧑‍🔬 Our Members
 
-| Researcher | Focus Area | Website | Website theme |
+| Researcher | Focus Area | Theme | Website |
 |:--|:--|:--|:--|
 | **Abdallah Abou Hajal** | AI × Drug Discovery · Cheminformatics | 🟢 Teal | [🔗 Visit](https://scholarlybrightminds.github.io/abdallahabouhajal/) |
 | **Molham Sakkal** | Cancer Cell Biology · Drug Delivery | 🟣 Indigo | [🔗 Visit](https://scholarlybrightminds.github.io/molhamsakkal/) |
@@ -49,7 +51,7 @@ On top of that, you get a blog section ready whenever you want to start writing,
 
 ### 🤝 Want Your Own?
 
-If you're a researcher and would like to have your own academic website, we will be happy to build it for you, completely free. Just send an email and we will take care of the rest.
+If you're a researcher and would like to have your own academic website, we'd be happy to build it for you, completely free. Just send an email and we'll take care of the rest.
 
 📧 **abdallah.abouhajal@gmail.com**
 
