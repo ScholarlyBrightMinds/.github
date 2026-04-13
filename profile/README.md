@@ -10,13 +10,11 @@
 
 </div>
 
----
+**ScholarlyBrightMinds** is an open academic network that helps researchers, especially those at the early stages of their career, create polished, professional personal websites to showcase their work, publications, and ongoing research.
 
-**ScholarlyBrightMinds** is an open academic network that helps researchers — especially those at the early stages of their career — create polished, professional personal websites to showcase their work, publications, and ongoing research.
+We believe every researcher deserves a digital home for their science. No paywalls, no bloated CMS, no complicated setups. Just clean, fast, static sites hosted for free on GitHub Pages.
 
-We believe every researcher deserves a digital home for their science. No paywalls, no bloated CMS, no complicated setups — just clean, fast, static sites hosted for free on GitHub Pages.
-
----
+<br/>
 
 ### 🧑‍🔬 Our Members
 
@@ -25,25 +23,28 @@ We believe every researcher deserves a digital home for their science. No paywal
 | **Abdallah Abou Hajal** | AI × Drug Discovery · Cheminformatics | [🔗 Visit](https://scholarlybrightminds.github.io/abdallahabouhajal/) |
 | **Molham Sakkal** | Cancer Cell Biology · Drug Delivery | [🔗 Visit](https://scholarlybrightminds.github.io/molhamsakkal/) |
 
----
+<br/>
 
 ### 🚀 What You Get
 
-- **Personal academic website** — hosted free on GitHub Pages
-- **Auto-updating publications** — powered by Google Scholar / Scopus data
-- **Blog-ready** — share your thoughts on research, conferences, and career advice
-- **Fully yours** — every line of code lives in your own repo
+A personal academic website hosted free on GitHub Pages, with auto-updating publications powered by Google Scholar and Scopus data, a blog section ready for your thoughts on research, conferences, and career advice, and full ownership of every line of code in your own repo.
 
----
+<br/>
 
-### 🤝 Want to Join?
+### 🤝 Want Your Own Website?
 
-If you're an early-career researcher looking to build your academic website, we'd love to have you. Reach out to any member or open an issue — we'll get you set up.
+If you're a researcher and would like to have your academic website live, please reach out! We're always looking to grow this network, improve what we offer, and help more researchers get the online presence they deserve.
 
----
+📧 **abdallah.abouhajal@gmail.com**
+
+<br/>
 
 <div align="center">
 
-*Built with curiosity, coffee, and a little bit of CSS.*
+<sub>All websites are built as forks of <a href="https://github.com/muhammedrashidx/ScholarSite_2.0">ScholarSite_2.0</a> by muhammedrashidx. Huge credit to the original template that made this possible.</sub>
+
+<br/>
+
+<sub>Built with curiosity, coffee, and a little bit of CSS.</sub>
 
 </div>
