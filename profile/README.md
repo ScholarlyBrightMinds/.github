@@ -1,57 +1,43 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ScholarlyBrightMinds/.github/main/profile/banner.png" width="100%" alt="ScholarlyBrightMinds — Network of Minds"/>
+<img src="https://raw.githubusercontent.com/ScholarlyBrightMinds/.github/main/profile/banner.png" width="100%" alt="ScholarlyBrightMinds"/>
 
 <sub>We're still trying to find the perfect image to describe us. Haven't found it yet :) so this will do for now! · <i>Image generated with Google Gemini</i></sub>
 
-<br/><br/>
-
-### A hub for early-career researchers to build their academic presence online.
+### A small hub for researchers who want their own corner of the internet.
 
 [![Organization](https://img.shields.io/badge/GitHub-ScholarlyBrightMinds-181717?style=flat-square&logo=github)](https://github.com/ScholarlyBrightMinds)
 
 </div>
 
-**ScholarlyBrightMinds** is an open academic network that helps researchers, especially those at the early stages of their career, create polished, professional personal websites to showcase their work, publications, and ongoing research.
+**ScholarlyBrightMinds** is a GitHub org where early-career researchers can get their own clean, professional academic website. No paywalls, no WordPress headaches, just a simple static site that updates itself and lives on GitHub Pages forever.
 
-We believe every researcher deserves a digital home for their science. No paywalls, no bloated CMS, no complicated setups. Just clean, fast, static sites hosted for free on GitHub Pages.
-
-<br/>
-
-### 💡 Why Should You Have Your Own Website?
-
-Think about it. When a potential collaborator, a PhD supervisor, or a journal editor looks you up, what do they find? A half-empty ResearchGate page? A Google Scholar profile with no context? Your name buried on page three of your department's website?
-
-A personal academic website puts you in control. It's the first thing people see when they Google your name, and it tells them exactly who you are, what you work on, and what you've published, all in one place, all on your terms.
-
-It's not just a digital CV. It's proof that you take your career seriously. It shows initiative, professionalism, and that you care about how your work is presented to the world. For early-career researchers especially, that can make a real difference when reaching out to supervisors, applying for positions, or simply standing out in a crowded field.
-
-And unlike institutional pages that disappear when you move on, your website stays with you wherever your career takes you.
+Think of it as a shared template with benefits - your publications auto-sync from Google Scholar and Scopus, you get to pick your own colors and vibe, and you own all the code in your own repo.
 
 <br/>
 
 ### 🧑‍🔬 Our Members
 
-| Researcher | Focus Area | Theme | Website |
+| Researcher | Focus Area | Website | Theme |
 |:--|:--|:--|:--|
-| **Abdallah Abou Hajal** | AI × Drug Discovery · Cheminformatics | 🟢 Teal | [🔗 Visit](https://scholarlybrightminds.github.io/abdallahabouhajal/) |
-| **Molham Sakkal** | Cancer Cell Biology · Drug Delivery | 🟣 Indigo | [🔗 Visit](https://scholarlybrightminds.github.io/molhamsakkal/) |
+| **Abdallah Abou Hajal** | AI × Drug Discovery · Cheminformatics | [🔗 Visit](https://scholarlybrightminds.github.io/abdallahabouhajal/) | 🟢 Teal |
+| **Molham Sakkal** | Cancer Cell Biology · Drug Delivery | [🔗 Visit](https://scholarlybrightminds.github.io/molhamsakkal/) | 🟣 Indigo |
 
 <br/>
 
-### 🚀 What You Get
+### 🚀 What's Included
 
-The best part? Your publications update automatically. The site pulls your latest papers from Google Scholar and Scopus, so every time you publish something new, it shows up on your website without you lifting a finger. No manual edits, no copy-pasting citations.
-
-Each website is also fully customizable. You pick the colors, the vibe, whatever feels like you, and we'll make it happen. Want a dark theme? A warm earthy palette? Your university colors? Just say the word.
-
-On top of that, you get a blog section ready whenever you want to start writing, your own About page, an Ongoing Research section, and full ownership of every line of code in your own repo, all hosted for free on GitHub Pages.
+- **Auto-updating publications** - Your latest papers from Google Scholar and Scopus show up automatically. Publish something new? It's on your site without you touching anything.
+- **Fully customizable** - Pick your colors, theme, whatever feels like you.
+- **Ready-to-go sections** - About, Research, Blog (whenever you feel like writing).
+- **Free hosting** - GitHub Pages. Stays with you even if you switch universities.
+- **Your own repo** - You own every line of code.
 
 <br/>
 
-### 🤝 Want Your Own?
+### 🤝 Want One?
 
-If you're a researcher and would like to have your own academic website, we'd be happy to build it for you, completely free. Just send an email and we'll take care of the rest.
+If you're a researcher and want your own site, just reach out. We'll set it up for you, free.
 
 📧 **abdallah.abouhajal@gmail.com**
 
@@ -59,7 +45,7 @@ If you're a researcher and would like to have your own academic website, we'd be
 
 <div align="center">
 
-<sub>All websites are built as forks of <a href="https://github.com/muhammedrashidx/ScholarSite_2.0">ScholarSite_2.0</a> by muhammedrashidx. Huge credit to the original template that made this possible.</sub>
+<sub>All websites built using <a href="https://github.com/muhammedrashidx/ScholarSite_2.0">ScholarSite_2.0</a> by muhammedrashidx.</sub>
 
 <br/>
 
