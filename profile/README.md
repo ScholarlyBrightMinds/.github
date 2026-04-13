@@ -16,6 +16,18 @@ We believe every researcher deserves a digital home for their science. No paywal
 
 <br/>
 
+### 💡 Why Should You Have Your Own Website?
+
+Think about it. When a potential collaborator, a PhD supervisor, or a journal editor looks you up, what do they find? A half-empty ResearchGate page? A Google Scholar profile with no context? Your name buried on page three of your department's website?
+
+A personal academic website puts you in control. It's the first thing people see when they Google your name, and it tells them exactly who you are, what you work on, and what you've published, all in one place, all on your terms.
+
+It's not just a digital CV. It's proof that you take your career seriously. It shows initiative, professionalism, and that you care about how your work is presented to the world. For early-career researchers especially, that can make a real difference when reaching out to supervisors, applying for positions, or simply standing out in a crowded field.
+
+And unlike institutional pages that disappear when you move on, your website stays with you wherever your career takes you.
+
+<br/>
+
 ### 🧑‍🔬 Our Members
 
 | Researcher | Focus Area | Website | Website theme |
