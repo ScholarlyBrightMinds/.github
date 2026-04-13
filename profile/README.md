@@ -10,7 +10,7 @@
 
 </div>
 
-**ScholarlyBrightMinds** is a GitHub org where early-career researchers can get their own clean, professional academic website. No paywalls, no WordPress headaches, just a simple static site that updates itself and lives on GitHub Pages forever.
+**ScholarlyBrightMinds** is a hub where (AWESOME) researchers can get their own clean, professional academic website. No paywalls, no WordPress headaches, just a simple static site that updates itself and lives on GitHub Pages forever.
 
 Think of it as a shared template with benefits - your publications auto-sync from Google Scholar and Scopus, you get to pick your own colors and vibe, and you own all the code in your own repo.
 
@@ -27,11 +27,11 @@ Think of it as a shared template with benefits - your publications auto-sync fro
 
 ### 🚀 What's Included
 
-- **Auto-updating publications** - Your latest papers from Google Scholar and Scopus show up automatically. Publish something new? It's on your site without you touching anything.
-- **Fully customizable** - Pick your colors, theme, whatever feels like you.
-- **Ready-to-go sections** - About, Research, Blog (whenever you feel like writing).
-- **Free hosting** - GitHub Pages. Stays with you even if you switch universities.
-- **Your own repo** - You own every line of code.
+- **Auto-updating publications** : Your latest papers from Google Scholar and Scopus show up automatically. Publish something new? It's on your site without you touching anything.
+- **Fully customizable** : Pick your colors, theme, whatever feels like you.
+- **Ready-to-go sections** : About, Research, Blog (whenever you feel like writing).
+- **Free hosting** : GitHub Pages. Stays with you even if you switch universities.
+- **Your own repo** : You own every line of code.
 
 <br/>
 
@@ -39,9 +39,7 @@ Think of it as a shared template with benefits - your publications auto-sync fro
 
 If you're a researcher and want your own site, just reach out. We'll set it up for you, free.
 
-📧 **abdallah.abouhajal@gmail.com**
-
-Or [**fill out a quick request here**](https://github.com/ScholarlyBrightMinds/.github/issues/new?template=website-request.yml) and we'll take it from there.
+📧 **abdallah.abouhajal@gmail.com** Or [**fill out a quick request here**](https://github.com/ScholarlyBrightMinds/.github/issues/new?template=website-request.yml) and we'll take it from there.
 
 <br/>
 
