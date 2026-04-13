@@ -41,6 +41,8 @@ If you're a researcher and want your own site, just reach out. We'll set it up f
 
 📧 **abdallah.abouhajal@gmail.com**
 
+Or [**fill out a quick request here**](https://github.com/ScholarlyBrightMinds/.github/issues/new?template=website-request.yml) and we'll take it from there.
+
 <br/>
 
 <div align="center">

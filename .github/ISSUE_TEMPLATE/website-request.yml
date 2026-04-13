@@ -1,0 +1,115 @@
+name: "🌐 Request Your Website"
+description: "Fill this in and we'll build your academic website for free."
+title: "Website Request — [Your Name]"
+labels: ["website-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest! Please fill in the details below and we'll take care of the rest.
+        Don't overthink it — short and honest is perfect.
+
+  - type: input
+    id: name
+    attributes:
+      label: "Full Name"
+      placeholder: "e.g. Ahmad Al-Farsi"
+    validations:
+      required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: "Current Role & Affiliation"
+      placeholder: "e.g. PhD Candidate at Khalifa University"
+    validations:
+      required: true
+
+  - type: textarea
+    id: bio
+    attributes:
+      label: "Short Bio (2–3 sentences for the homepage)"
+      placeholder: "Who are you, what do you work on, what drives you? Keep it natural."
+    validations:
+      required: true
+
+  - type: textarea
+    id: about
+    attributes:
+      label: "About (your academic background and current work)"
+      placeholder: "Where did you study? What's your degree in? What are you working on now? Any collaborations worth mentioning?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: research
+    attributes:
+      label: "Ongoing Research Projects"
+      placeholder: "List your current projects with a short summary for each (1–2 sentences)."
+    validations:
+      required: true
+
+  - type: input
+    id: scholar
+    attributes:
+      label: "Google Scholar Profile URL"
+      placeholder: "https://scholar.google.com/citations?user=..."
+    validations:
+      required: true
+
+  - type: input
+    id: scopus
+    attributes:
+      label: "Scopus Author ID or URL (if available)"
+      placeholder: "https://www.scopus.com/authid/detail.uri?authorId=..."
+
+  - type: input
+    id: orcid
+    attributes:
+      label: "ORCID (if available)"
+      placeholder: "https://orcid.org/0000-0000-0000-0000"
+
+  - type: input
+    id: linkedin
+    attributes:
+      label: "LinkedIn URL"
+      placeholder: "https://www.linkedin.com/in/..."
+
+  - type: input
+    id: email
+    attributes:
+      label: "Contact Email (shown on website)"
+      placeholder: "your.email@example.com"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: blog
+    attributes:
+      label: "Want a Blog section?"
+      options:
+        - "Yes, I'll start writing soon"
+        - "Not now, but maybe later"
+        - "No thanks"
+    validations:
+      required: true
+
+  - type: input
+    id: color
+    attributes:
+      label: "Color / Theme preference"
+      placeholder: "e.g. dark blue, emerald green, university colors, or 'surprise me'"
+    validations:
+      required: true
+
+  - type: textarea
+    id: extras
+    attributes:
+      label: "Anything else?"
+      placeholder: "Any special requests, gallery images, additional links, etc."
+
+  - type: markdown
+    attributes:
+      value: |
+        **Don't forget to attach your profile photo!** (1080×1080, JPG or PNG)
+        You can drag and drop it into this issue after submitting, or email it to abdallah.abouhajal@gmail.com.
