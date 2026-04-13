@@ -18,16 +18,20 @@ We believe every researcher deserves a digital home for their science. No paywal
 
 ### 🧑‍🔬 Our Members
 
-| Researcher | Focus Area | Website |
-|:--|:--|:--|
-| **Abdallah Abou Hajal** | AI × Drug Discovery · Cheminformatics | [🔗 Visit](https://scholarlybrightminds.github.io/abdallahabouhajal/) |
-| **Molham Sakkal** | Cancer Cell Biology · Drug Delivery | [🔗 Visit](https://scholarlybrightminds.github.io/molhamsakkal/) |
+| Researcher | Focus Area | Theme | Website |
+|:--|:--|:--|:--|
+| **Abdallah Abou Hajal** | AI × Drug Discovery · Cheminformatics | 🟢 Teal | [🔗 Visit](https://scholarlybrightminds.github.io/abdallahabouhajal/) |
+| **Molham Sakkal** | Cancer Cell Biology · Drug Delivery | 🟣 Indigo | [🔗 Visit](https://scholarlybrightminds.github.io/molhamsakkal/) |
 
 <br/>
 
 ### 🚀 What You Get
 
-A personal academic website hosted free on GitHub Pages, with auto-updating publications powered by Google Scholar and Scopus data, a blog section ready for your thoughts on research, conferences, and career advice, and full ownership of every line of code in your own repo.
+The best part? Your publications update automatically. The site pulls your latest papers from Google Scholar and Scopus, so every time you publish something new, it shows up on your website without you lifting a finger. No manual edits, no copy-pasting citations.
+
+Each website is also fully customizable. You pick the colors, the vibe, whatever feels like you, and we'll make it happen. Want a dark theme? A warm earthy palette? Your university colors? Just say the word.
+
+On top of that, you get a blog section ready whenever you want to start writing, your own About page, an Ongoing Research section, and full ownership of every line of code in your own repo, all hosted for free on GitHub Pages.
 
 <br/>
 
