@@ -18,7 +18,7 @@ We believe every researcher deserves a digital home for their science. No paywal
 
 ### 🧑‍🔬 Our Members
 
-| Researcher | Focus Area | Theme | Website |
+| Researcher | Focus Area | Website | Website theme |
 |:--|:--|:--|:--|
 | **Abdallah Abou Hajal** | AI × Drug Discovery · Cheminformatics | 🟢 Teal | [🔗 Visit](https://scholarlybrightminds.github.io/abdallahabouhajal/) |
 | **Molham Sakkal** | Cancer Cell Biology · Drug Delivery | 🟣 Indigo | [🔗 Visit](https://scholarlybrightminds.github.io/molhamsakkal/) |
@@ -37,7 +37,7 @@ On top of that, you get a blog section ready whenever you want to start writing,
 
 ### 🤝 Want Your Own?
 
-If you're a researcher and would like to have your own academic website, we'd be happy to build it for you, completely free. Just send an email and we'll take care of the rest.
+If you're a researcher and would like to have your own academic website, we will be happy to build it for you, completely free. Just send an email and we will take care of the rest.
 
 📧 **abdallah.abouhajal@gmail.com**
 
