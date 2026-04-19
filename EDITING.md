@@ -184,17 +184,3 @@ Hard-refresh. Your phone caches aggressively. Safari: clear history. Chrome: pul
 
 <br/>
 
-## 📣 For the Scholarly Bright Minds community
-
-If you're adding someone new to the hub:
-
-1. Fork `abdallahabouhajal` or `molhamsakkal` into a new repo under `ScholarlyBrightMinds/<theirname>`
-2. Swap their `theme.config.js` (one file, every per-person variable lives there)
-3. Replace `images/profile.png`
-4. In the new repo's **Settings → Secrets**, add their `SCOPUS_API_KEY` and `SERPAPI_KEY`
-5. In their workflow files under `.github/workflows/`, update the `SCHOLAR_AUTHOR_ID` line
-6. In `publications.html`, update the `data-author-id="..."` value around line 37
-7. **Settings → Pages** → Branch: `main` → Save
-8. Wait 2 minutes, live at `scholarlybrightminds.github.io/theirname/`
-
-Total time per new member: about 10 minutes.
