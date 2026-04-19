@@ -1,86 +1,245 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--        Scholarly Bright Minds · Organization Profile             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ScholarlyBrightMinds/.github/main/profile/banner.png" width="100%" alt="ScholarlyBrightMinds"/>
-
-<br/>
-
-<sub><i>A small hub for researchers who want their own corner of the internet.</i></sub>
-
-<br/>
-
-[![Organization](https://img.shields.io/badge/GitHub-ScholarlyBrightMinds-181717?style=flat-square&logo=github)](https://github.com/ScholarlyBrightMinds)
-[![Members](https://img.shields.io/badge/Members-2-informational?style=flat-square)](https://github.com/orgs/ScholarlyBrightMinds/repositories)
-[![License](https://img.shields.io/badge/License-MIT-amber?style=flat-square)](#)
-[![Hosted on](https://img.shields.io/badge/Hosted-GitHub%20Pages-181717?style=flat-square&logo=github)](https://pages.github.com/)
+<a href="https://scholarlybrightminds.github.io" target="_blank" rel="noopener">
+  <img src="https://raw.githubusercontent.com/ScholarlyBrightMinds/.github/main/profile/banner.png" width="100%" alt="Scholarly Bright Minds"/>
+</a>
 
 </div>
 
 <br/>
 
-## § About the hub
+<h1 align="center">✦&nbsp; Scholarly&nbsp;Bright&nbsp;Minds&nbsp; ✦</h1>
 
-Academic personal websites should be *clean, fast, and honest* — not WordPress installations that rot, not Squarespace subscriptions, not the same tired CV-on-a-PDF. We build researchers their own small piece of the web — one that updates itself, costs nothing to run, and stays with them even if they change institution.
-
-Every site in this hub shares the same visual spine — what we call the **Lab-Notebook Elevated** aesthetic: refined editorial typography, subtle molecular atmosphere, a proper day/night theme, and a publications dashboard that updates automatically from Google Scholar and Scopus. Each researcher picks their own accent colour — and that's where the family resemblance ends and their personality begins.
+<h3 align="center"><i>A small hub for researchers who want their own corner of the internet.</i></h3>
 
 <br/>
-
-## § Members
-
-| Researcher | Focus | Site | Accent |
-| :-- | :-- | :-- | :-- |
-| **Abdallah Abou Hajal** | AI × Drug Discovery · Cheminformatics | [scholarlybrightminds.github.io/abdallahabouhajal](https://scholarlybrightminds.github.io/abdallahabouhajal/) | 🟢&nbsp; Teal |
-| **Molham Sakkal** | Cancer Cell Biology · Drug Delivery | [scholarlybrightminds.github.io/molhamsakkal](https://scholarlybrightminds.github.io/molhamsakkal/) | 🟣&nbsp; Indigo |
-
-<br/>
-
-## § What every site ships with
-
-- **Auto-updating publications** — Google Scholar (weekly) and Scopus (monthly) via GitHub Actions. Publish a paper, wait a week, it shows up. No manual entry, ever.
-- **Live metrics dashboard** — publications, citations, h-index, plus a citation-growth sparkline built from the researcher's own cumulative data.
-- **Editorial typography** — Fraunces for display, Manrope for body, JetBrains Mono for mono. No bootstrap defaults, no generic AI slop.
-- **Day / night toggle** — respects system preference on first visit, remembers your choice after.
-- **Ready sections** — About (narrative + timeline + research pillars + awards), Ongoing Research, Publications, Blog.
-- **Full mobile support** — hamburger nav, responsive everything, works on a cheap phone.
-- **Owned outright** — every line of code lives in the researcher's own repo. If this org disappears tomorrow, their site keeps running.
-
-<br/>
-
-## § Under the hood
-
-Each researcher's site is a single repo with this rough anatomy:
-
-```
-theme.config.js       ← single source of truth: name, palette, bio, projects
-styles.css            ← shared visual system (CSS variables injected at runtime)
-scripts.js            ← shared runtime (nav, bindings, theme toggle, reveal)
-serpapi_fetcher.py    ← weekly Scholar refresh  (GitHub Actions cron)
-scopus_fetcher.py     ← monthly Scopus refresh (GitHub Actions cron)
-data/                 ← auto-updated JSON, the site's source of truth
-```
-
-Adding a new researcher means forking the template, swapping **one config file**, and setting two API secrets. Deploy time: ~10 minutes.
-
-<br/>
-
-## § Want a site?
-
-If you're an early-career researcher and the current options (WordPress, Squarespace, writing your own from scratch) feel either expensive or soul-crushing — reach out. We'll set it up for you, free, no strings.
-
-📧 &nbsp;**[abdallah.abouhajal@gmail.com](mailto:abdallah.abouhajal@gmail.com)**
-
-Or [open a quick request](https://github.com/ScholarlyBrightMinds/.github/issues/new?template=website-request.yml) and we'll take it from there.
-
-<br/>
-
----
 
 <div align="center">
 
-<sub>Built on <a href="https://github.com/muhammedrashidx/ScholarSite_2.0">ScholarSite_2.0</a> by <a href="https://github.com/muhammedrashidx">muhammedrashidx</a> — redesigned &amp; extended by the hub.</sub>
+<p>
+  <a href="https://scholarlybrightminds.github.io" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/%E2%9C%A6_Visit_the_hub-2d5547?style=for-the-badge&logoColor=white" alt="Visit the hub"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/ScholarlyBrightMinds/.github/issues/new?template=website-request.yml" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%81_Request_a_free_site-b07a3a?style=for-the-badge&logoColor=white" alt="Request a free site"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Abu_Dhabi-UAE-6e685c?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Free-for_academics-7dbf8f?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Sites-auto_updating-8b88e8?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hosted_on-GitHub_Pages-181717?style=flat-square&logo=github"/>
+</p>
+
+</div>
 
 <br/>
 
-<sub><i>Built with curiosity, coffee, and a little bit of CSS.</i></sub>
+## 🌿 Why this exists
+
+Academic personal websites should feel clean, fast, and honest. Not a crumbling WordPress install. Not a Squarespace subscription. Not yet another CV on a PDF. Early-career researchers deserve a small piece of the web that updates itself, costs nothing to run, and stays with them even if they change institutions.
+
+That's what we build here.
+
+Every site in this hub shares the same visual spine we call **Lab Notebook Elevated**: refined editorial typography, subtle molecular atmosphere, a proper day/night theme, and a publications dashboard that updates itself from Google Scholar and Scopus. Each researcher picks their own accent colour, and that's where the family resemblance ends and their personality begins.
+
+<br/>
+
+## 👥 Members
+
+<div align="center">
+
+<table>
+<tr>
+<!-- ═══ Abdallah ═══ -->
+<td align="center" width="280">
+  <a href="https://github.com/ScholarlyBrightMinds/abdallahabouhajal" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/ScholarlyBrightMinds/abdallahabouhajal/main/images/profile.png" width="160" height="160" style="border-radius:50%; object-fit:cover;" alt="Abdallah Abou Hajal"/>
+    <br/>
+    <br/>
+    <b>Abdallah Abou Hajal</b>
+  </a>
+  <br/>
+  <sub><i>AI in Drug Discovery &amp; Cheminformatics</i></sub>
+  <br/>
+  <br/>
+  <a href="https://scholarlybrightminds.github.io/abdallahabouhajal/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/%E2%86%92_Visit_site-2d5547?style=flat-square&logoColor=white" alt="Visit site"/>
+  </a>
+  <br/>
+  <sub>🟢&nbsp;Teal accent</sub>
+</td>
+<!-- ═══ Molham ═══ -->
+<td align="center" width="280">
+  <a href="https://github.com/ScholarlyBrightMinds/molhamsakkal" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/ScholarlyBrightMinds/molhamsakkal/main/images/profile.png" width="160" height="160" style="border-radius:50%; object-fit:cover;" alt="Molham Sakkal"/>
+    <br/>
+    <br/>
+    <b>Molham Sakkal</b>
+  </a>
+  <br/>
+  <sub><i>Cancer Cell Biology &amp; Drug Delivery</i></sub>
+  <br/>
+  <br/>
+  <a href="https://scholarlybrightminds.github.io/molhamsakkal/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/%E2%86%92_Visit_site-4338ca?style=flat-square&logoColor=white" alt="Visit site"/>
+  </a>
+  <br/>
+  <sub>🟣&nbsp;Indigo accent</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<sub><i>Click a photo to see the repo. Metrics on each member's site auto update from Scholar (weekly) and Scopus (monthly).</i></sub>
+
+</div>
+
+<br/>
+
+## ✨ What every site ships with
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>📊 Auto updating publications</h3>
+
+Papers flow in from Google Scholar (weekly) and Scopus (monthly) via GitHub Actions. Publish something new, wait a week, it shows up. No manual entry, ever.
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📈 Live metrics dashboard</h3>
+
+Publications, citations, h-index, plus a citation growth sparkline built from each researcher's own cumulative data.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<h3>🎨 Editorial typography</h3>
+
+Fraunces for display, Manrope for body, JetBrains Mono for code. No Bootstrap defaults, no generic AI slop, no identical looking template.
+
+</td>
+<td valign="top">
+
+<h3>🌙 Day / night theme</h3>
+
+Respects your system preference on first visit, remembers your choice after. Each site's palette is unique to its researcher.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<h3>📱 Full mobile support</h3>
+
+Hamburger nav, responsive layouts, works on a cheap phone. Because half your readers are scrolling between classes.
+
+</td>
+<td valign="top">
+
+<h3>🔐 Owned outright</h3>
+
+Every line of code lives in the researcher's own repo. If this org disappears tomorrow, their site keeps running.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🏗️ Under the hood
+
+Each researcher's site is a single repo. Anatomy is roughly:
+
+```text
+theme.config.js      ← single source of truth (name, palette, bio, projects, awards)
+styles.css           ← shared visual system (CSS variables injected at runtime)
+scripts.js           ← shared runtime (nav, bindings, theme toggle, reveal)
+serpapi_fetcher.py   ← weekly Scholar refresh (GitHub Actions cron, Mondays 05:00 UTC)
+scopus_fetcher.py    ← monthly Scopus refresh (GitHub Actions cron, 1st of month)
+data/                ← auto updated JSON (the site's source of truth for publications)
+images/              ← profile photo + a handful of SVG icons
+```
+
+Adding a new researcher means forking the template, swapping **one config file**, and setting two API secrets. Deploy time is about **10 minutes**.
+
+<div align="center">
+
+<br/>
+
+<a href="https://github.com/ScholarlyBrightMinds/.github/blob/main/EDITING.md" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/%F0%9F%93%98_Read_the_full_editing_guide-2d5547?style=for-the-badge&logoColor=white" alt="Editing guide"/>
+</a>
+
+</div>
+
+<br/>
+
+## 🤝 Want a site?
+
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+If you're an early-career researcher and the current options (WordPress, Squarespace, writing your own from scratch) feel either **expensive or soul crushing**, reach out. We'll set it up for you, free, no strings.
+
+Pick a colour. Send us your Scholar ID. Give us a nice photo. We'll handle the rest.
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<a href="mailto:abdallah.abouhajal@gmail.com">
+  <img src="https://img.shields.io/badge/%F0%9F%93%A7_Email_us-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email us"/>
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/ScholarlyBrightMinds/.github/issues/new?template=website-request.yml" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/%F0%9F%97%92%EF%B8%8F_Open_a_request-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open a request"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<h3>📖 Credits</h3>
+
+<sub>
+Built on <a href="https://github.com/muhammedrashidx/ScholarSite_2.0" target="_blank" rel="noopener">ScholarSite 2.0</a> by <a href="https://github.com/muhammedrashidx" target="_blank" rel="noopener">muhammedrashidx</a>.<br/>
+Redesigned and extended with the <i>Lab Notebook Elevated</i> design system by the hub.<br/>
+Typography: <b>Fraunces</b> · <b>Manrope</b> · <b>JetBrains Mono</b>.
+</sub>
+
+<br/>
+<br/>
+
+<sub><i>✦&nbsp; Built with curiosity, coffee, and a little bit of CSS. &nbsp;✦</i></sub>
+
+<br/>
+<br/>
+
+<a href="https://github.com/ScholarlyBrightMinds" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/-Scholarly_Bright_Minds-2d5547?style=for-the-badge&logo=github&logoColor=white" alt="Scholarly Bright Minds"/>
+</a>
 
 </div>
