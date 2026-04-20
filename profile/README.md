@@ -96,6 +96,24 @@ Every site in this hub shares the same visual spine we call **Lab Notebook Eleva
   <br/>
   <sub>🟣&nbsp;Indigo accent</sub>
 </td>
+<!-- ═══ Rahaf ═══ -->
+<td align="center" width="280">
+  <a href="https://github.com/ScholarlyBrightMinds/Rahafalzeer" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/ScholarlyBrightMinds/Rahafalzeer/main/images/profile.png" width="160" height="160" style="border-radius:50%; object-fit:cover;" alt="Rahaf Al Zeer"/>
+    <br/>
+    <br/>
+    <b>Rahaf Al Zeer</b>
+  </a>
+  <br/>
+  <sub><i>Pharmacist &amp; Graduate Teaching Assistant</i></sub>
+  <br/>
+  <br/>
+  <a href="https://scholarlybrightminds.github.io/Rahafalzeer/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/%E2%86%92_Visit_site-C2185B?style=flat-square&logoColor=white" alt="Visit site"/>
+  </a>
+  <br/>
+  <sub>🌸&nbsp;Pink accent</sub>
+</td>
 </tr>
 </table>
 
