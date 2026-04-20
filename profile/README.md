@@ -63,7 +63,7 @@ Every site in this hub shares the same visual spine we call **Lab Notebook Eleva
 <!-- ═══ Abdallah ═══ -->
 <td align="center" width="280">
   <a href="https://github.com/ScholarlyBrightMinds/abdallahabouhajal" target="_blank" rel="noopener">
-    <img src="https://wsrv.nl/?url=raw.githubusercontent.com/ScholarlyBrightMinds/abdallahabouhajal/main/images/profile.png&w=160&h=160&fit=cover&mask=circle" width="160" height="160" alt="Abdallah Abou Hajal"/>
+    <img src="https://wsrv.nl/?url=raw.githubusercontent.com/ScholarlyBrightMinds/abdallahabouhajal/main/images/profile.png&w=160&h=160&fit=cover&mask=circle&output=png" width="160" height="160" alt="Abdallah Abou Hajal"/>
     <br/>
     <br/>
     <b>Abdallah Abou Hajal</b>
