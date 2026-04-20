@@ -81,7 +81,7 @@ Every site in this hub shares the same visual spine we call **Lab Notebook Eleva
 <!-- ═══ Molham ═══ -->
 <td align="center" width="280">
   <a href="https://github.com/ScholarlyBrightMinds/molhamsakkal" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/ScholarlyBrightMinds/molhamsakkal/main/images/profile.png" width="160" height="160" style="border-radius:50%; object-fit:cover;" alt="Molham Sakkal"/>
+    <img src="https://wsrv.nl/?url=raw.githubusercontent.com/ScholarlyBrightMinds/molhamsakkal/main/images/profile.png&w=160&h=160&fit=cover&mask=circle" width="160" height="160" alt="Molham Sakkal"/>
     <br/>
     <br/>
     <b>Molham Sakkal</b>
@@ -99,7 +99,7 @@ Every site in this hub shares the same visual spine we call **Lab Notebook Eleva
 <!-- ═══ Rahaf ═══ -->
 <td align="center" width="280">
   <a href="https://github.com/ScholarlyBrightMinds/Rahafalzeer" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/ScholarlyBrightMinds/Rahafalzeer/main/images/profile.png" width="160" height="160" style="border-radius:50%; object-fit:cover;" alt="Rahaf Al Zeer"/>
+    <img src="https://wsrv.nl/?url=raw.githubusercontent.com/ScholarlyBrightMinds/Rahafalzeer/main/images/profile.png&w=160&h=160&fit=cover&mask=circle" width="160" height="160" alt="Rahaf Al Zeer"/>
     <br/>
     <br/>
     <b>Rahaf Al Zeer</b>
