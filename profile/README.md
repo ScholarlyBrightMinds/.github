@@ -241,7 +241,7 @@ Pick a colour. Send us your Scholar ID. Give us a nice photo. We'll handle the r
 
 <sub>
 Built on <a href="https://github.com/muhammedrashidx/ScholarSite_2.0" target="_blank" rel="noopener">ScholarSite 2.0</a> by <a href="https://github.com/muhammedrashidx" target="_blank" rel="noopener">muhammedrashidx</a>.<br/>
-Redesigned and extended with the <i>Lab Notebook Elevated</i> design system by the hub.<br/>
+Redesigned and extended by claude!<br/>
 Typography: <b>Fraunces</b> · <b>Manrope</b> · <b>JetBrains Mono</b>.
 </sub>
 
