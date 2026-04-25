@@ -14,7 +14,7 @@
 
 <h1 align="center">✦&nbsp; Scholarly&nbsp;Bright&nbsp;Minds&nbsp; ✦</h1>
 
-<h3 align="center"><i>A space for researchers who want to showcase your academic profile online.</i></h3>
+<h3 align="center"><i>A space for researchers who want to showcase their academic profile online.</i></h3>
 
 <br/>
 
