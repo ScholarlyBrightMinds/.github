@@ -14,7 +14,7 @@
 
 <h1 align="center">✦&nbsp; Scholarly&nbsp;Bright&nbsp;Minds&nbsp; ✦</h1>
 
-<h3 align="center"><i>A small hub for researchers who want their own corner of the internet.</i></h3>
+<h3 align="center"><i>A space for researchers who want to showcase your academic profile online.</i></h3>
 
 <br/>
 
@@ -46,11 +46,11 @@
 
 ## 🌿 Why this exists
 
-Academic personal websites should feel clean, fast, and honest. Not a crumbling WordPress install. Not a Squarespace subscription. Not yet another CV on a PDF. Early-career researchers deserve a small piece of the web that updates itself, costs nothing to run, and stays with them even if they change institutions.
+Academic personal websites should feel clean, fast, and honest. Researchers deserve a small piece of the web that updates itself, costs nothing to run, and stays with them even if they change institutions.
 
-That's what we build here.
+That's what we aim to provide you with here.
 
-Every site in this hub shares the same visual spine we call **Lab Notebook Elevated**: refined editorial typography, subtle molecular atmosphere, a proper day/night theme, and a publications dashboard that updates itself from Google Scholar and Scopus. Each researcher picks their own accent colour, and that's where the family resemblance ends and their personality begins.
+Every site in this hub shares the same visual design: refined editorial typography, subtle molecular atmosphere, a proper day/night theme, and a publications dashboard that updates itself from Google Scholar and Scopus. Each researcher picks their own accent colour, and that's where the family resemblance ends and their personality begins.
 
 <br/>
 
