@@ -21,9 +21,7 @@
 <div align="center">
 
 <p>
-  <a href="https://scholarlybrightminds.github.io" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/%E2%9C%A6_Visit_the_hub-2d5547?style=for-the-badge&logoColor=white" alt="Visit the hub"/>
-  </a>
+
   &nbsp;
   <a href="https://github.com/ScholarlyBrightMinds/.github/issues/new?template=website-request.yml" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/%F0%9F%8E%81_Request_a_free_site-b07a3a?style=for-the-badge&logoColor=white" alt="Request a free site"/>
