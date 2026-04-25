@@ -248,7 +248,7 @@ Typography: <b>Fraunces</b> · <b>Manrope</b> · <b>JetBrains Mono</b>.
 <br/>
 <br/>
 
-<sub><i>✦&nbsp; Built with curiosity, coffee, and a little bit of CSS. &nbsp;✦</i></sub>
+<sub><i>✦&nbsp; Built with curiosity, coffee, and a little bit of claud(ing). &nbsp;✦</i></sub>
 
 <br/>
 <br/>
