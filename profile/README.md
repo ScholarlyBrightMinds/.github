@@ -48,7 +48,7 @@ Academic personal websites should feel clean, fast, and honest. Researchers dese
 
 That's what we aim to provide you with here.
 
-Every site in this hub shares the same visual design: refined editorial typography, subtle molecular atmosphere, a proper day/night theme, and a publications dashboard that updates itself from Google Scholar and Scopus. Each researcher picks their own accent colour, and that's where the family resemblance ends and their personality begins.
+Every site in this hub shares the same visual design: refined editorial typography, subtle molecular atmosphere, a proper day/night theme, and a publications dashboard that updates itself from Google Scholar. Each researcher picks their own accent colour, and that's where the family resemblance ends and their personality begins.
 
 <br/>
 
@@ -117,7 +117,7 @@ Every site in this hub shares the same visual design: refined editorial typograp
 
 <br/>
 
-<sub><i>Click a photo to see the repo. Metrics on each member's site auto update from Scholar (weekly) and Scopus (monthly).</i></sub>
+<sub><i>Click a photo to see the repo. Metrics on each member's site auto update from Scholar (weekly).</i></sub>
 
 </div>
 
@@ -131,7 +131,7 @@ Every site in this hub shares the same visual design: refined editorial typograp
 
 <h3>📊 Auto updating publications</h3>
 
-Papers flow in from Google Scholar (weekly) and Scopus (monthly) via GitHub Actions. Publish something new, wait a week, it shows up. No manual entry, ever.
+Papers flow in from Google Scholar (weekly) via GitHub Actions. Publish something new, wait a week, it shows up. No manual entry, ever.
 
 </td>
 <td width="50%" valign="top">
@@ -187,7 +187,6 @@ theme.config.js      ← single source of truth (name, palette, bio, projects, a
 styles.css           ← shared visual system (CSS variables injected at runtime)
 scripts.js           ← shared runtime (nav, bindings, theme toggle, reveal)
 serpapi_fetcher.py   ← weekly Scholar refresh (GitHub Actions cron, Mondays 05:00 UTC)
-scopus_fetcher.py    ← monthly Scopus refresh (GitHub Actions cron, 1st of month)
 data/                ← auto updated JSON (the site's source of truth for publications)
 images/              ← profile photo + a handful of SVG icons
 ```
