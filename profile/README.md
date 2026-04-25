@@ -112,6 +112,24 @@ Every site in this hub shares the same visual design: refined editorial typograp
   <br/>
   <sub>🌸&nbsp;Pink accent</sub>
 </td>
+<!-- ═══ Ahmad ═══ -->
+<td align="center" width="280">
+  <a href="https://github.com/ScholarlyBrightMinds/ahmadalmeslamani" target="_blank" rel="noopener">
+    <img src="https://wsrv.nl/?url=raw.githubusercontent.com/ScholarlyBrightMinds/ahmadalmeslamani/main/images/profile.png&w=160&h=160&fit=cover&mask=circle" width="160" height="160" alt="Ahmad Z. Al Meslamani"/>
+    <br/>
+    <br/>
+    <b>Ahmad Z. Al Meslamani</b>
+  </a>
+  <br/>
+  <sub><i>Drug Safety &amp; Pharmacotherapy</i></sub>
+  <br/>
+  <br/>
+  <a href="https://scholarlybrightminds.github.io/ahmadalmeslamani/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/%E2%86%92_Visit_site-a86411?style=flat-square&logoColor=white" alt="Visit site"/>
+  </a>
+  <br/>
+  <sub>🟠&nbsp;Amber accent</sub>
+</td>
 </tr>
 </table>
 
