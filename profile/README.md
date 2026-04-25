@@ -114,7 +114,7 @@ Every site in this hub shares the same visual design: refined editorial typograp
 </td>
 <!-- ═══ Ahmad ═══ -->
 <td align="center" width="280">
-  <a href="https://github.com/ScholarlyBrightMinds/ahmadalmeslamani" target="_blank" rel="noopener">
+  <a href="[https://github.com/ScholarlyBrightMinds/ahmadalmeslamani](https://github.com/ScholarlyBrightMinds/ahmadalmeslamani/blob/2644090d27d5dd0a33c2e8447ef550a53d3bb18a/images/profile.png)" target="_blank" rel="noopener">
     <img src=images/profile.png" width="160" height="160" alt="Ahmad Z. Al Meslamani"/>
     <br/>
     <br/>
