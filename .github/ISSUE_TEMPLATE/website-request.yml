@@ -13,7 +13,7 @@ body:
       value: |
         Thanks for your interest! This should take about 2 minutes.
 
-        Give us your Google Scholar link, a photo, and a colour preference. We'll handle the rest of the build — your publications and citations are pulled automatically from Scholar and Scopus once the site is live. If anything's missing or unclear, we'll reach out.
+        Give us your Google Scholar link, a photo, and a colour preference. We'll handle the rest of the build — your publications and citations are pulled automatically from Scholar once the site is live. If anything's missing or unclear, we'll reach out.
 
   - type: input
     id: scholar
