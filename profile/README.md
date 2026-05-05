@@ -32,7 +32,7 @@
 
 </div>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Abu_Dhabi-UAE-6e685c?style=flat-square"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Free-for_academics-7dbf8f?style=flat-square"/>
