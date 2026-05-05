@@ -6,17 +6,14 @@ body:
   - type: markdown
     attributes:
       value: |
-        **Privacy notice:** By submitting this request, you consent to me using the information you provide (name,
-  email, academic profile links, photo) only to build and maintain your personal website. Your info won't be shared with
-   third parties. You can ask me to delete your data or take down the site at any time by emailing
-  abdallah.abouhajal@gmail.com.
-  
+        **Privacy notice:** By submitting this request, you consent to us using the information you provide (name, email, academic profile links, photo) only to build and maintain your personal website. Your info won't be shared with third parties. You can ask us to delete your data or take down the site at any time by emailing abdallah.abouhajal@gmail.com.
+
   - type: markdown
     attributes:
       value: |
-        Thanks for your interest! This should take about 30 seconds.
-        
-        Just give us your Google Scholar link, a photo, and a color — our AI will take care of finding the rest (your publications, research interests, affiliations, and more). If there's anything we can't find, we'll reach out.
+        Thanks for your interest! This should take about 2 minutes.
+
+        Give us your Google Scholar link, a photo, and a colour preference. We'll handle the rest of the build — your publications and citations are pulled automatically from Scholar and Scopus once the site is live. If anything's missing or unclear, we'll reach out.
 
   - type: input
     id: scholar
